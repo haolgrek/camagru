@@ -1,0 +1,35 @@
+.border {
+    border: solid red 2px;
+}
+
+.header {
+    border-color: green;
+    height: 10%;
+}
+
+.main {
+    border-color: hotpink;
+}
+
+.gallery {
+    border-color: blue;
+}
+
+.footer {
+    border-color: purple;
+    height: 10%;
+}
+
+.login {
+    display: none;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    height: 80%;
+}
+
+body {
+    width: 100%;
+}
